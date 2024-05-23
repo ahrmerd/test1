@@ -27,7 +27,7 @@ export const metadata: Metadata = {
 export default function MusicPage() {
   return (
     <>
-     
+     <div className="">hello</div>
     </>
   )
 }
