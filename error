@@ -1,0 +1,6 @@
+2024/11/16 19:46:06 [crit] 6043#6043: *1 stat() "/home/kaduna/works-and-persons/public/ds" failed (13: Permission denied), client: 127.0.0.1, server: _, request: "GET /ds HTTP/1.1", host: "localhost"
+2024/11/16 19:46:06 [crit] 6043#6043: *1 stat() "/home/kaduna/works-and-persons/public/ds" failed (13: Permission denied), client: 127.0.0.1, server: _, request: "GET /ds HTTP/1.1", host: "localhost"
+2024/11/16 19:46:06 [crit] 6043#6043: *1 realpath() "/home/kaduna/works-and-persons/public" failed (13: Permission denied), client: 127.0.0.1, server: _, request: "GET /ds HTTP/1.1", host: "localhost"
+2024/11/16 19:46:06 [error] 6043#6043: *1 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 127.0.0.1, server: _, request: "GET /ds HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php8.3-fpm.sock:", host: "localhost"
+2024/11/16 19:46:13 [crit] 6043#6043: *3 stat() "/home/kaduna/phpMyAdmin/" failed (13: Permission denied), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8004"
+2024/11/16 19:46:13 [crit] 6043#6043: *3 stat() "/home/kaduna/phpMyAdmin/" failed (13: Permission denied), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8004"
